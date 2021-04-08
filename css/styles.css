@@ -1,0 +1,42 @@
+.header {
+    background-color: #072046;
+    text-align: center;
+    color: white;
+    text-decoration:none
+}
+
+.footer{
+    background-color: #212529;
+    color: white;
+    width: 100%;
+    font-size: 0.8vw;
+    text-decoration: none;
+}
+
+.body{
+    background-color: #ebebeb;
+}
+
+.title{
+    font-size: 2.5vw;
+    font-weight: bold;
+}
+
+.instructions{
+    font-size: 1.5vw;
+    color: #666666;
+}
+
+.subtitle{
+    font-size: 2.5vw;
+    color: #666666;
+}
+
+.thead{
+    background-color: #212529;
+    color: white;
+}
+
+.tbody{
+    background-color: white;
+}
